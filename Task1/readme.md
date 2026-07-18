@@ -1,4 +1,4 @@
-# Task 2: Named Entity Recognition (NER) for Mountain Identification
+# Task 1: Named Entity Recognition (NER) for Mountain Identification
 
 ## Solution Overview
 The objective of this task is to build a Named Entity Recognition (NER) pipeline capable of identifying mountain names within unstructured text. 
@@ -14,7 +14,7 @@ Note: Extract the model weights into the ./final_model directory and place the d
 
 ## Directory Structure
 ```text
-task_2_nlp/
+task_1/
 │
 ├── data/
 │   ├── mountain_names.txt          # Vocabulary: List of global mountain names
