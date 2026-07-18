@@ -1,0 +1,65 @@
+"Mount Everest", "K2", "Kangchenjunga", "Lhotse", "Makalu",
+"Cho Oyu", "Dhaulagiri", "Manaslu", "Nanga Parbat",
+"Annapurna I", "Shishapangma", "Ama Dablam", "Pumori",
+"Nuptse", "Gasherbrum I", "Gasherbrum II", "Broad Peak",
+"Island Peak", "Mera Peak", "Langtang Lirung",
+
+# Europe
+"Mont Blanc", "Matterhorn", "Monte Rosa", "Dom",
+"Weisshorn", "Dent Blanche", "Eiger", "Jungfrau",
+"Mönch", "Grossglockner", "Triglav", "Ben Nevis",
+"Scafell Pike", "Snowdon", "Pico de Aneto",
+"Mulhacén", "Mount Olympus", "Gerlachovský štít",
+
+# Caucasus
+"Mount Elbrus", "Dykh-Tau", "Shkhara", "Kazbek",
+"Tetnuldi", "Ushba", "Janga", "Tebulosmta",
+
+# North America
+"Denali", "Mount Logan", "Mount Saint Elias",
+"Mount Foraker", "Mount Bona", "Mount Rainier",
+"Mount Whitney", "Mount Shasta", "Longs Peak",
+"Pikes Peak", "Mount Hood", "Mount Adams",
+"Mount Baker", "Grand Teton", "Mount Mitchell",
+
+# South America
+"Aconcagua", "Ojos del Salado", "Monte Pissis",
+"Huascarán", "Cerro Bonete", "Nevado Tres Cruces",
+"Illimani", "Sajama", "Chimborazo", "Cotopaxi",
+"Alpamayo", "Huayna Potosí", "Licancabur",
+
+# Africa
+"Mount Kilimanjaro", "Mount Kenya", "Mount Stanley",
+"Mount Speke", "Mount Baker", "Ras Dashen",
+"Mount Meru", "Ol Doinyo Lengai", "Toubkal",
+"Mount Elgon", "Karisimbi", "Nyiragongo",
+
+# Asia (outside Himalayas)
+"Mount Fuji", "Mount Ararat", "Mount Damavand",
+"Mount Kinabalu", "Mount Apo", "Mount Pulag",
+"Mount Kerinci", "Mount Semeru", "Mount Rinjani",
+"Mount Agung", "Mount Bromo", "Mount Sinai",
+"Jebel Hafeet", "Hallasan", "Paektu Mountain",
+
+# Oceania
+"Puncak Jaya", "Mount Wilhelm", "Mount Kosciuszko",
+"Mount Cook", "Mount Tasman", "Mount Taranaki",
+"Mount Ruapehu", "Mount Ngauruhoe",
+
+# Antarctica
+"Vinson Massif", "Mount Tyree", "Mount Shinn",
+"Mount Sidley", "Mount Erebus",
+
+# Ukraine
+"Hoverla", "Petros", "Pip Ivan", "Brebeneskul",
+"Rebra", "Turkul", "Menchul", "Hutyn Tomnatyk",
+"Syvulia", "Parashka", "Makovytsia", "Yavirnyk",
+"Malyi Hoverla", "Velyka Bliznytsia", "Stig",
+
+# Other famous peaks
+"Table Mountain", "Sugarloaf Mountain",
+"Half Dome", "El Capitan", "Mount Cook",
+"Mount Robson", "Mount Assiniboine",
+"Mount Kailash", "Mount Etna", "Mount Vesuvius",
+"Mount Pelée", "Mauna Kea", "Mauna Loa",
+"Krakatoa", "Popocatépetl", "Iztaccíhuatl"
