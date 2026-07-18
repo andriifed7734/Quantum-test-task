@@ -1,1 +1,0 @@
-# Quantum-test-task
