@@ -9,6 +9,7 @@ To solve this, the solution is divided into three main components:
 3. **Inference & Visualization**: A custom inference script processes new text using the Hugging Face `pipeline` (`aggregation_strategy="simple"` to handle sub-tokens). For presentation, a dynamic HTML visualization tool renders the results directly in a Jupyter Notebook, cleanly highlighting detected mountains in light green without relying on bulky external UI wrappers.
 
 4. To skip the generation and training steps, you can download the ready-to-use dataset (mountain_ner_dataset.json) and the fine-tuned model weights directly from Google Drive: https://drive.google.com/drive/folders/1jypATnhtczL-twq2ZLoOiMNnm9zQ_-uM?usp=sharing
+
 Note: Extract the model weights into the ./final_model directory and place the dataset in the ./data folder before running inference.
 
 ## Directory Structure
